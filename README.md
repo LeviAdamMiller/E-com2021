@@ -1,12 +1,12 @@
 # E-commerce Performance 2021 Dashboard
 
 ## Project Objective
-To analyze and visualize the overall e-commerce performance in 2021 in order to identify customer behavior, sales trends, payment method preferences, and category performance. The goal is to support data-driven decisions to boost sales and customer satisfaction.
+This comprehensive analysis was developed using Microsoft Power BI to examine and visualize the overall e-commerce performance throughout the year 2021. The primary objective is to gain deep insights into customer behavior patterns, identify emerging sales trends over time, understand payment method preferences, and evaluate the revenue contributions of different product categories. By leveraging the powerful data visualization and interactive dashboard capabilities of Power BI, this project aims to transform raw transactional data into actionable intelligence. The ultimate goal is to empower stakeholders with data-driven decision-making tools that can help optimize marketing strategies, enhance the customer experience, improve operational efficiency, and drive increased sales and customer satisfaction in a highly competitive online marketplace.
 
 ## Dataset Used
 
 
-## Key Perfomance Questions
+## Key Performance Questions
 - How many orders and customers were recorded in 2021?
 - What was the average order value and the cancellation rate?
 - Which payment methods were most commonly used?
@@ -14,17 +14,17 @@ To analyze and visualize the overall e-commerce performance in 2021 in order to 
 - Which product categories generated the most revenue?
 - What is the age distribution of the customer base?
 
-  ## Analysis Process
+## Analysis Process
 - Collected and cleaned raw transactional data.
-- Calculated key performance indicators (KPIs):
-   - Total Orders
-   - Customer Count
-   - Average Order Value
-   - Cancellation Rate
-- Visualized data using:
-   - Donut charts for payment methods and age groups
-   - Line chart for monthly sales trends
-   - Bar chart for category sales
+- Calculated key performance indicators (KPIs), including:
+  - Total Orders  
+  - Customer Count  
+  - Average Order Value  
+  - Cancellation Rate
+- Created visualizations using:
+  - Donut charts for payment methods and age groups  
+  - Line chart for monthly sales trends  
+  - Bar chart for category sales
 - Derived actionable insights based on visual trends and breakdowns.
 
 ## Dashboard
