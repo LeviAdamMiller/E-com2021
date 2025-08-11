@@ -4,7 +4,7 @@
 This comprehensive analysis was developed using Microsoft Power BI to examine and visualize the overall e-commerce performance throughout the year 2021. The primary objective is to gain deep insights into customer behavior patterns, identify emerging sales trends over time, understand payment method preferences, and evaluate the revenue contributions of different product categories. By leveraging the powerful data visualization and interactive dashboard capabilities of Power BI, this project aims to transform raw transactional data into actionable intelligence. The ultimate goal is to empower stakeholders with data-driven decision-making tools that can help optimize marketing strategies, enhance the customer experience, improve operational efficiency, and drive increased sales and customer satisfaction in a highly competitive online marketplace.
 
 ## Dataset Used
-
+[Sales_dataset](https://github.com/LeviAdamMiller/E-com2021/blob/main/sales.zip)
 
 ## Key Performance Questions
 - How many orders and customers were recorded in 2021?
